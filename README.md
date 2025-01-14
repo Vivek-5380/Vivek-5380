@@ -29,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-5380&show_icons=true&locale=en&layout=compact" alt="vivek-5380" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-5380&show_icons=true&locale=en" alt="vivek-5380" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-5380&" alt="vivek-5380" /></p>
